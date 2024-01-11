@@ -1,0 +1,34 @@
+.contenido{
+      display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100%; 
+}
+
+.primer-cuadro{
+    display: flex;
+    background-color: red;
+    width: 900px;
+    height: 800px;
+    margin-top: 12vh;
+  
+}
+
+.segundo-cuadro{
+    background-color: rgb(85, 0, 255);
+    width: 550px;
+    height: 500px;
+    margin: auto;
+   display: flex;
+   border-radius: 10%;
+}
+
+.circulo{
+    display: flex;
+    width: 300px;
+    height: 300px;
+    background-color: green;
+    margin: auto;
+    border-radius: 50%;
+    border: 2px solid white;
+}
